@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pickle-rick.png" alt="Pickle Rick — TryHackMe" width="320">
+  <img src="image.png" alt="Pickle Rick — TryHackMe" width="320">
 </p>
 # Pickle Rick — TryHackMe | Write-up
  
